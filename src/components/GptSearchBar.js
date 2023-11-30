@@ -17,6 +17,8 @@ const GptSearchBar = () => {
       messages: [{ role: "user", content: gptQuery }],
       model: "gpt-3.5-turbo",
     });
+
+    const gptMovies = gptResults.choices?.[0]?.message?.content.split(",");
   };
 
   return (
