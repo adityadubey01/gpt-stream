@@ -36,11 +36,11 @@ const GptSearchBar = () => {
 
     // const gptMovies = gptResults.choices?.[0]?.message?.content.split(",");
     const gptMovies = [
-      "Andaz Apna Apna",
-      "Hera Pheri",
-      "Chupke Chupke",
-      "Jaane Bhi Do Yaaro",
-      "Padosan",
+      "The Dark Knight",
+      "Mad Max: Fury Road",
+      "Die Hard",
+      "Inception",
+      "John Wick",
     ];
 
     const promiseArray = gptMovies.map((movie) => searchMovieTMDB(movie));
