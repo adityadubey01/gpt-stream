@@ -10,6 +10,7 @@
  ![image](https://github.com/adityadubey01/gpt-stream/assets/86652604/abf4afbc-fd6e-40b6-86b4-eb64fb116069)
  
  ### GPT Search Page -
+ ![image](https://github.com/adityadubey01/gpt-stream/assets/86652604/4c892744-54ff-4901-9189-50887809f504)
 
  ### Language Change Functionality -
 
