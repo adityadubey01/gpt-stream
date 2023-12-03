@@ -2,7 +2,7 @@
 
 => Deployed using Firebase - [ProjectLink](https://gptstream-700ac.web.app/)
 
- ** SignIn/SighUp Page - **
+ ##SignIn/SighUp Page -
  ![image](https://github.com/adityadubey01/gpt-stream/assets/86652604/4e647687-6ad3-4ce4-b813-e0767c1a3f6d)
  
  **Browse Page - **
