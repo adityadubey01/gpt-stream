@@ -9,10 +9,12 @@
  ![image](https://github.com/adityadubey01/gpt-stream/assets/86652604/3985c9b6-da74-412f-8d6d-8404bed435d0)
  ![image](https://github.com/adityadubey01/gpt-stream/assets/86652604/abf4afbc-fd6e-40b6-86b4-eb64fb116069)
  
- ### GPT Search Page -
+ ### GPT Search Page and Language Change Functionality -
  ![image](https://github.com/adityadubey01/gpt-stream/assets/86652604/4c892744-54ff-4901-9189-50887809f504)
 
- ### Language Change Functionality -
+ ### GPT Search Movie Recommendations - 
+ ![image](https://github.com/adityadubey01/gpt-stream/assets/86652604/2dec39aa-ae0c-4e27-94ce-5b823f5392ec)
+
 
 
 
